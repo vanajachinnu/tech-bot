@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "facebook-messenger-bot": "0.2.0",
+    "moment": "^2.18.1",
+    "nodemailer": "^4.0.1",
+    "react": "^15.5.4",
+    "react-datepicker": "^0.46.0",
+    "react-dom": "^15.5.4",
+    "request": "^2.81.0",
+    "sendmail": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
